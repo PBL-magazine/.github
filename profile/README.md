@@ -24,7 +24,7 @@
 
 ### 우석
 
-- 배포주소 : [192.168.1.1](http://192.168.1.1)
+- 배포주소 : [woooseogi.shop](http://woooseogi.shop)
 
 ### 세명 
 
