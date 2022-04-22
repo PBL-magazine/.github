@@ -1,12 +1,27 @@
-## Hi there 👋
- - 2조 작업 링크 및 정리
-<!--
+# 2조 과제 진행사항🔥👋
+> 완료한 과제를 배포완료 후 주소를 각자 수정후 커밋할까요?
+## ⭐ Frontend
+### 주환 
 
-**Here are some ideas to get you started:**
+- 배포주소 : [192.168.1.1](http://192.168.1.1)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ ## 태희 
+
+- 배포주소 : [192.168.1.1](http://192.168.1.1)
+
+ ## 👾Backend👾
+
+### 원영
+
+- 배포주소 : [192.168.1.1](http://192.168.1.1)
+
+### 재철
+
+- 배포주소 : [192.168.1.1](http://192.168.1.1)
+### 우석
+
+- 배포주소 : [192.168.1.1](http://192.168.1.1)
+
+### 세명 
+
+- 배포주소 : [192.168.1.1](http://192.168.1.1)
